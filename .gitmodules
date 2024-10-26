@@ -7,3 +7,7 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Fix /snap/bin"]
+	path = Fix ⁄snap⁄bin
+	url = https://gitlab.com/brlin/fix-snap-bin.git
+	ignore = dirty
