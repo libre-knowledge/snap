@@ -5,7 +5,7 @@
 # * Workflow syntax for GitHub Actions - GitHub Docs
 #   https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
 #
-# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
+# Copyright 2025 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 name: Release product and their build aritfacts
 on:
@@ -16,7 +16,7 @@ on:
 jobs:
   release:
     name: Release product and their build aritfacts
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Check out content from the Git repository
         uses: actions/checkout@v4
@@ -49,7 +49,8 @@ jobs:
         run: |-
           git submodule update \
             --init \
-            --recursive
+            --recursive \
+            --depth 1
 
       - name: Determine the project identifier
         run: printf "project_id=${GITHUB_REPOSITORY##*/}\\n" >> $GITHUB_ENV
