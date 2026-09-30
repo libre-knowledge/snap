@@ -17,3 +17,8 @@
 	url = https://gitlab.com/brlin/snapcrafters-template-plus.git
 	ignore = dirty
 	shallow = true
+[submodule "Snap documentation"]
+	path = Snap documentation: Documentation for the snap packaging system
+	url = https://github.com/canonical/snap-docs.git
+	ignore = dirty
+	shallow = true
