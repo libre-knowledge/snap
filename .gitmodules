@@ -11,7 +11,9 @@
 	path = Fix ⁄snap⁄bin
 	url = https://gitlab.com/brlin/fix-snap-bin.git
 	ignore = dirty
+	shallow = true
 [submodule "Snapcrafters Template Plus"]
 	path = Snapcrafters Template Plus - An unofficial fork of the Snapcrafters Template
 	url = https://gitlab.com/brlin/snapcrafters-template-plus.git
 	ignore = dirty
+	shallow = true
