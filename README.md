@@ -23,6 +23,12 @@
 * [Snapcrafters Template Plus](https://gitlab.com/brlin/snapcrafters-template-plus)  
   一個基於 Snapcrafters Template 的專案範本，提供更完整的 Snap 應用開發輔助。
 
+## 其他
+
+以下列舉與本主題相關的其他資源：
+* [snapcraft.io codebase](https://github.com/canonical/snapcraft.io)  
+  Snapcraft 官方網站的原始碼。
+
 ## 參考資料
 
 以下列舉撰寫本主題內容時所參考的第三方資源：

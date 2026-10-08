@@ -22,3 +22,8 @@
 	url = https://github.com/canonical/snap-docs.git
 	ignore = dirty
 	shallow = true
+[submodule "snapcraft.io codebase"]
+	path = snapcraft.io codebase
+	url = https://github.com/canonical/snapcraft.io.git
+	ignore = dirty
+	shallow = true
