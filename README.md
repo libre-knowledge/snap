@@ -20,6 +20,8 @@
 
 * [Fix /snap/bin](https://gitlab.com/brlin/fix-snap-bin)  
   修正 /snap/bin 目錄中缺少的 Snap 應用命令<ruby>象徵式連結<rp>(</rp><rt>symbolic link</rt><rp>)</rp></ruby>
+* [The selective-checkout override-pull scriptlet](https://gitlab.com/brlin/selective-checkout)  
+  用於選擇性取出 Snapcraft 零件版本的 Snapcraft 小腳本(scriptlet)
 * [Snapcraft](https://github.com/canonical/snapcraft)  
   打包 Snap 軟體包用的官方工具
 * [Snapcrafters Template Plus](https://gitlab.com/brlin/snapcrafters-template-plus)  

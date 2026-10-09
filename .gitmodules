@@ -32,3 +32,8 @@
 	url = https://github.com/canonical/snapcraft.git
 	ignore = dirty
 	shallow = true
+[submodule "The selective-checkout override-pull scriptlet"]
+	path = The selective-checkout override-pull scriptlet
+	url = https://gitlab.com/brlin/selective-checkout.git
+	ignore = dirty
+	shallow = true
