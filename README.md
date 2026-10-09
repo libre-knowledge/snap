@@ -20,6 +20,8 @@
 
 * [Fix /snap/bin](https://gitlab.com/brlin/fix-snap-bin)  
   修正 /snap/bin 目錄中缺少的 Snap 應用命令<ruby>象徵式連結<rp>(</rp><rt>symbolic link</rt><rp>)</rp></ruby>
+* [Snapcraft](https://github.com/canonical/snapcraft)  
+  打包 Snap 軟體包用的官方工具
 * [Snapcrafters Template Plus](https://gitlab.com/brlin/snapcrafters-template-plus)  
   一個基於 Snapcrafters Template 的專案範本，提供更完整的 Snap 應用開發輔助。
 
