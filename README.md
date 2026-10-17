@@ -31,6 +31,8 @@
 
 以下列舉與本主題相關的其他資源：
 
+* [Craft Application](https://github.com/canonical/craft-application)  
+  The base library for all Starcraft applications.
 * [Craft Parts](https://github.com/canonical/craft-parts)  
   Obtain, process, and organize data sources into deployment-ready filesystems.
 * [Craft providers](https://github.com/canonical/craft-providers)  

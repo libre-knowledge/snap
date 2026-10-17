@@ -47,3 +47,8 @@
 	url = https://github.com/canonical/craft-providers.git
 	ignore = dirty
 	shallow = true
+[submodule "Craft Application"]
+	path = Craft Application
+	url = https://github.com/canonical/craft-application.git
+	ignore = dirty
+	shallow = true
