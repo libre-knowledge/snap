@@ -31,6 +31,8 @@
 
 以下列舉與本主題相關的其他資源：
 
+* [Craft Parts](https://github.com/canonical/craft-parts)  
+  Obtain, process, and organize data sources into deployment-ready filesystems.
 * [snapcraft.io codebase](https://github.com/canonical/snapcraft.io)  
   Snapcraft 官方網站的原始碼。
 

@@ -5,7 +5,7 @@
 # * Git - gitmodules Documentation
 #   https://git-scm.com/docs/gitmodules
 #
-# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
+# Copyright 2026 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "Fix /snap/bin"]
 	path = Fix ⁄snap⁄bin
@@ -35,5 +35,10 @@
 [submodule "The selective-checkout override-pull scriptlet"]
 	path = The selective-checkout override-pull scriptlet
 	url = https://gitlab.com/brlin/selective-checkout.git
+	ignore = dirty
+	shallow = true
+[submodule "Craft Parts"]
+	path = Craft Parts
+	url = https://github.com/canonical/craft-parts.git
 	ignore = dirty
 	shallow = true
