@@ -33,6 +33,8 @@
 
 * [Craft Parts](https://github.com/canonical/craft-parts)  
   Obtain, process, and organize data sources into deployment-ready filesystems.
+* [Craft providers](https://github.com/canonical/craft-providers)  
+  Python interfaces for instantiating and executing builds for a variety of target environments.
 * [snapcraft.io codebase](https://github.com/canonical/snapcraft.io)  
   Snapcraft 官方網站的原始碼。
 
