@@ -30,6 +30,7 @@
 ## 其他
 
 以下列舉與本主題相關的其他資源：
+
 * [snapcraft.io codebase](https://github.com/canonical/snapcraft.io)  
   Snapcraft 官方網站的原始碼。
 
